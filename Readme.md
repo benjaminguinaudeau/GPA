@@ -4,10 +4,12 @@ German Policy Agendas
 ## General Information
 
 All data available in this repo originally haven been coded following
-the German specific codebook. The latest version is available on the
-[Comparative Agendas website](https://www.comparativeagendas.net). To
-ensure the international comparability, German specific categories have
-been converted into the categories from the master codebook of the
+the [German specific
+codebook](https://github.com/benjaminguinaudeau/GPA/raw/master/codebook.pdf).
+The latest version is available on the [Comparative Agendas
+website](https://www.comparativeagendas.net). To ensure the
+international comparability, German specific categories have been
+converted into the categories from the master codebook of the
 Comparative Agenda Project. German specific codes are available on
 request.
 
