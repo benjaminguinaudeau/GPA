@@ -31,15 +31,26 @@ Do not forget to quote us if you use it (see quote example below).
 
 Following datasets are available:
 
--   Most-Important Problems
--   Executive speeches
--   Parliamentary questions
--   Private and public bills
--   Laws
--   Manifestos
+-   [Most-Important
+    Problems](https://github.com/benjaminguinaudeau/GPA/raw/master/data/mip-1976-2017_release_2.5.csv)
+-   [Executive
+    speeches](https://github.com/benjaminguinaudeau/GPA/raw/master/data/speeches_1976-2017_release_2.5.csv)
+-   [Parliamentary
+    questions](https://github.com/benjaminguinaudeau/GPA/raw/master/data/anfrage_1976-2017_release_2.5.csv)
+-   [Private and public
+    bills](https://github.com/benjaminguinaudeau/GPA/raw/master/data/bills_1976-2017_release_2.5.csv)
+-   [Laws](https://github.com/benjaminguinaudeau/GPA/raw/master/data/laws_1976-2017_release_2.5.csv)
+-   [Manifestos](https://github.com/benjaminguinaudeau/GPA/raw/master/data/manifesto_1949-2013_release_2.5.csv)
 
 ## How to cite?
 
-Breunig, C., Guinaudeau, B., & Schnatterer, T. (2021). Policy agendas in
-Germany–database and descriptive insights. The Journal of Legislative
-Studies, 1-13.
+*For MIP, Speeches, parliamentary questions, bills and laws*
+
+> Breunig, C., Guinaudeau, B., & Schnatterer, T. (2021). Policy agendas
+> in Germany–database and descriptive insights. The Journal of
+> Legislative Studies, 1-13.
+
+*For Manifestos*
+
+> Guinaudeau, I. (2015). Documentation on the coding of German
+> manifestos. Working paper, Sciences Po Bordeaux
